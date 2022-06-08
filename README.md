@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @ravichaudhary133
-- 👀 I’m an android developer
-- 🌱 I love cooking android kernels
+:)
